@@ -1,5 +1,5 @@
 # Book-Finder
-![Tier3 Book Finder] (bookfinder.PNG)
+![Tier3 Book Finder] bookfinder.PNG
 
 ## Overview
 This project helps me gain experience in using API's to enhance your applications. My objective with this project is to build a web application using the Google Books API to build a search engine to allow users to search for books.
